@@ -1,0 +1,3 @@
+## General Configs
+
+Feel free to use them on your own servers... 
